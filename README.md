@@ -1,7 +1,7 @@
-# Mahi Abeysinghe - GitHub Profile
+# Mahidhara Abeysinghe - GitHub Profile
 
 
-## 👋 Hello, I'm Mahi Abeysinghe!
+## 👋 Hello, I'm Mahidhara Abeysinghe!
 
 I'm a passionate developer with expertise in modern web technologies and software development. Welcome to my GitHub profile where I share my projects, contributions, and open-source work.
 
